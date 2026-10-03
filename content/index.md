@@ -1,8 +1,12 @@
 ---
 layout: layouts/home.njk
 ---
-<p class="drop">Here begins the story. These opening words set the scene, establish the voice, and invite the reader into the world of the work. Replace this foreword with your own epigraph, dedication, or opening passage.</p>
+<p class="drop">Once again to Zelda</p>
 
 <blockquote>
-  <p>The beginning is always today.</p>
+  <p>Then wear the gold hat, if that will move her;<br>
+  If you can bounce high, bounce for her too,<br>
+  Till she cry “Lover, gold-hatted, high-bouncing lover,<br>
+  I must have you!”</p>
+  <cite>— Thomas Parke d’Invilliers</cite>
 </blockquote>

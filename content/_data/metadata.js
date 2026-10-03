@@ -1,11 +1,11 @@
 export default {
-  title: "Chapbook",
+  title: "The Great Gatsby",
   subtitle: "",
   url: "https://002374.xyz/",
   language: "en",
-  description: "A description of this work.",
+  description: "Reading edition of The Great Gatsby by F. Scott Fitzgerald.",
   author: {
-    name: "Author Name",
+    name: "F. Scott Fitzgerald",
   },
   image: "",
 }
