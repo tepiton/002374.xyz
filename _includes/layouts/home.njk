@@ -1,0 +1,17 @@
+---
+layout: layouts/base.njk
+---
+{{ content | safe }}
+
+<nav class="chapter-list" aria-label="Table of contents">
+  <ol>
+  {%- for chapter in collections.chapters %}
+    <li>
+      <a href="{{ chapter.url }}">
+        <span class="chapter-number">{{ chapter.data.order }}</span>
+        <span class="chapter-title">{{ chapter.data.title }}</span>
+      </a>
+    </li>
+  {%- endfor %}
+  </ol>
+</nav>
