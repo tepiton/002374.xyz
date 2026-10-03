@@ -7,7 +7,7 @@ eleventyNavigation:
 
 # [{{ title }}](/)
 
-This site is served from [orobia.dev](https://orobia.dev/).
+This site is served from [002374.xyz](https://002374.xyz/).
 
 Replace this page with your own credits, colophon, and acknowledgments.
 
